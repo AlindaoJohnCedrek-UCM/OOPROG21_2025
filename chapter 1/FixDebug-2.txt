@@ -1,0 +1,19 @@
+public class FixDebug One
+{
+   /* This program displays a greeting */
+   public static void Main(String args)   
+   {
+      Systm.out.println("Hello World!")         
+   }
+
+/*
+List down the spotted bugs below:
+
+e.g.
+- // wrong syntax for access modifier "publlic" instead of "public"
+
+Bugs:
+1. (class FixDebug })
+2. (public static void(String[] args)
+3. (System.out.println(Hello World!");
+*/
