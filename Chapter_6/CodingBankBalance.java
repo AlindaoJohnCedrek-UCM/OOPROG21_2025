@@ -2,7 +2,7 @@ package PracJava;
 
 import java.util.*;
 
-class BankBalance {
+class CodingBankBalance {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		final double INTEREST_RATE = 0.03;
@@ -64,4 +64,5 @@ class BankBalance {
 		input.close();
 		System.out.println("\n---jGRASP: Operation complete.");
 	}
+
 }
